@@ -1,4 +1,6 @@
 IIoT has changed the way condition based monitoring can be completed. Sensors installed on the assets can perform ongoing vibration and oil analysis, and monitor temperature changes. This greatly reduces the need for manual inspections and testing. Sensors will monitor the asset condition for indicators of decreasing performance or imminent failure. When indicators arise, the sensor will notify the maintenance team of the change in asset condition through an IIoT solution. Maintenance teams can respond to the issue and perform the necessary maintenance immediately.
+Want to learn more about git commands? Here is a Git Tutorial to get you started. Alternatively, you can take a top-down approach and start with this DevOps Tutorial.
+
 This command sends the committed changes of master branch to your remote repository.
 For example, a certain piece of equipment usually vibrates at a given frequency. If that frequency starts to vary, or changes substantially, it could mean something is starting to fail or needs to be replaced. The sensors will register this change and notify the maintenance team of the potential issue so they can respond accordingly.
 
