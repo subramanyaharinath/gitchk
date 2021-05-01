@@ -8,3 +8,14 @@ Overall benefits
     Increased efficiency in maintenance practices and management
 
 
+Types of Condition Based Monitoring
+    Vibration Analysis
+    Oil Analysis
+    Temperature Measurements
+    Acoustic Analysis
+    Motor Circuit Analysis
+    Electrical Monitoring
+    Electromagnetic Measurement
+    Radiation Analysis
+    Laser Interferometry
+    
