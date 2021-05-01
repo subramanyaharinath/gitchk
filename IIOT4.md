@@ -19,4 +19,4 @@ Types of Condition Based Monitoring
     Radiation Analysis
     Laser Interferometry
 
-Condition based monitoring in maintenance is focused on preventing asset failures, downtime, and unnecessary practices by monitoring asset health to determine what maintenance needs to be completed and when
+Condition based monitoring in maintenance is focused on preventing asset failures, downtime, and unnecessary practices by monitoring asset health to determine what maintenance needs to be completed and when.
